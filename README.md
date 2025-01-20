@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Networking**
 
-- 🔧 Experienced with **C, C++, java, Solidity, Typescript and Linux**
+- 🔧 Experienced with **C, C++, java, Solidity, Typescript, Linux ...**
 
 - 💬 Ask me about **DSA, Blockchain, Networking, Game dev**
 
@@ -15,12 +15,12 @@
 
 
 <div align="center">
-  <h3>🌐 Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/jl-vinay-329a16253/" target="_blank">LinkedIn</a> | 
-  <a href="mailto:vinnu24.vinay@gmail.com">Email</a>
+  <div>
+    <h3>🌐 Connect with Me</h3>
+    <a href="https://www.linkedin.com/in/jl-vinay-329a16253/" target="_blank">LinkedIn</a> | 
+    <a href="mailto:vinnu24.vinay@gmail.com">Email</a>
+  </div>
 </div>
-
-<div></div>
 
 <div align="center" width="400px">
   <img src="https://github-readme-stats.vercel.app/api?username=Laxical&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
