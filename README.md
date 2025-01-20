@@ -22,6 +22,6 @@
   </div>
 </div>
 
-<div align="center" width="400px">
+<div align="center" width="400px" style="padding-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Laxical&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
 </div>
