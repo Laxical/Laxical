@@ -13,6 +13,9 @@
 - 📫 How to reach me **vinnu24.vinay@gmail.com**
 </div>
 
+<div align="center" width="400px" style="padding-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Laxical&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+</div>
 
 <div align="left">
   <div>
@@ -20,8 +23,4 @@
     <a href="https://www.linkedin.com/in/jl-vinay-329a16253/" target="_blank">LinkedIn</a> | 
     <a href="mailto:vinnu24.vinay@gmail.com">Email</a>
   </div>
-</div>
-
-<div align="center" width="400px" style="padding-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laxical&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
 </div>
