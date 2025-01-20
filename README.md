@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Laxical/Laxical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌟 Enthusiast in Open Source, Network Programming and Blockchain
+- 🔧 Experienced with **C**, **C++**, **java**, **Solidity**, **Typescript** and **Linux**
+- 🔭 I’m currently working on Blockchain and Networking
 
-Here are some ideas to get you started:
+### 🛠️ Tools and Technologies:
+![C](https://img.shields.io/badge/Code-C-blue)
+![C++](https://img.shields.io/badge/Code-C++-orange)
+![Java](https://img.shields.io/badge/Code-Java-orange)
+![Solidity](https://img.shields.io/badge/Code-Solidity-orange)
+![Typescript](https://img.shields.io/badge/Code-Typescript-orange)
+![Linux](https://img.shields.io/badge/OS-Linux-informational)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jl-vinay-329a16253/))
+<!-- [![Portfolio](https://img.shields.io/badge/Website-Portfolio-informational)](https://yourwebsite.com) -->
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laxical&show_icons=true)
