@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-informational)
 
 ### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jl-vinay-329a16253/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jl-vinay-329a16253/)
 <!-- [![Portfolio](https://img.shields.io/badge/Website-Portfolio-informational)](https://yourwebsite.com) -->
 
 ### 📊 GitHub Stats:
