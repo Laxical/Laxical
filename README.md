@@ -20,8 +20,8 @@
   <a href="mailto:vinnu24.vinay@gmail.com">Email</a>
 </div>
 
+<div></div>
+
 <div align="center" width="400px">
   <img src="https://github-readme-stats.vercel.app/api?username=Laxical&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Laxical&theme=dark&hide_border=true)]
 </div>
