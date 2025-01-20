@@ -14,7 +14,7 @@
 </div>
 
 
-<div align="center">
+<div align="left">
   <div>
     <h3>🌐 Connect with Me</h3>
     <a href="https://www.linkedin.com/in/jl-vinay-329a16253/" target="_blank">LinkedIn</a> | 
