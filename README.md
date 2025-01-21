@@ -8,7 +8,7 @@
 
 - 🔧 Experienced with **C, C++, java, Solidity, Typescript, Linux ...**
 
-- 💬 Ask me about **DSA, Blockchain, Networking, Game dev**
+- 💬 Ask me about **DSA, Blockchain, Networking**
 
 - 📫 How to reach me **vinnu24.vinay@gmail.com**
 </div>
